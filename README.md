@@ -1,6 +1,6 @@
 # **Glitch**
 
-The Glitch project is a simple CSS animation of a glitch effect.
+The Glitch project is a CSS animation of a glitch effect.
 
 ## **Setup**
 

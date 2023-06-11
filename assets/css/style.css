@@ -26,8 +26,8 @@ body {
   font-family: Helvetica, sans-serif;
   font-weight: bold;
   text-align: left;
-  color: var(--white);
   background-image: url("../images/glitch-background.png");
+  color: var(--white);
 }
 
 /* ============================================================ */
