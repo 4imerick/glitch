@@ -7,7 +7,7 @@ The Glitch project is a simple CSS animation of a glitch effect.
 - HTML 5
 - CSS 3
 
-To use the projet you have to follow this steps:
+To use the projet follows these steps:
 
 - Git clone the `dev` branch of the repository
 - Go to the `template` folder
