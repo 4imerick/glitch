@@ -46,15 +46,6 @@ body {
     font-size: 6em;
   }
 
-  .square {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    align-items: center;
-    width: 17em;
-    height: 17em;
-  }
-
   .glitch {
     position: relative;
     display: flex;
