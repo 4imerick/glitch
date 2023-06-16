@@ -59,23 +59,23 @@ body {
     visibility: hidden;
   }
 
-  .glitch__animate-text {
+  .glitch__animated-text {
     position: absolute;
     top: 0;
     opacity: 0.9;
   }
 
-  .glitch__animate-text:nth-child(2) {
+  .glitch__animated-text:nth-child(2) {
     color: var(--red);
     animation: skew 3s infinite;
   }
 
-  .glitch__animate-text:nth-child(3) {
+  .glitch__animated-text:nth-child(3) {
     color: var(--aquamarine);
     animation: glitch2 3s infinite;
   }
 
-  .glitch__animate-text:nth-child(4) {
+  .glitch__animated-text:nth-child(4) {
     color: var(--white);
     animation: glitch3 3s infinite;
   }
